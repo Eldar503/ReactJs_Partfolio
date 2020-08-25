@@ -19,6 +19,13 @@ function Header() {
                                <a href="#blog" className="menu__link">blog</a></li>
                        </ul>
                     </nav>
+                    <ul className="social">
+                        <li className="social__item"><a className="social__link" href=""><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
+                        <li className="social__item"><a className="social__link" href=""><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                        <li className="social__item"><a className="social__link" href=""><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+                        <li className="social__item"><a className="social__link" href=""><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+                        <li className="social__item"><a className="social__link" href=""><i class="fa fa-behance-square" aria-hidden="true"></i></a></li>
+                    </ul>
                 </div>
             </div>
         </header>

@@ -1,0 +1,5 @@
+.hero{
+    background:url("../../assets/hero__back.png") center;
+    background-size: cover;
+    height: 734px;
+}
