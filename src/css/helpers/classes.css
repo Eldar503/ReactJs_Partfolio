@@ -1,0 +1,21 @@
+.white{
+    color: white;
+}
+.orange{
+    color:#ffb400;
+}
+.row{
+    display: flex;
+}
+.col-2{
+    width: 16.66%;
+}
+.col-5{
+    width: 41.65%;
+}
+.col-6{
+    width: 50%;
+}
+.col-7{
+    width: 58.31%;
+}

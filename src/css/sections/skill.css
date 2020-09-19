@@ -1,0 +1,37 @@
+.skill__header {
+    text-align: center;
+}
+.skill__title {
+    font-size: 55px;
+    line-height: 66px;
+    color: #323232;
+    font-weight: 700;
+    font-family: "Poppins";
+    margin: 0;
+}
+.skill__description {
+    font-size: 15px;
+    line-height: 25px;
+    color: #323232;
+    font-weight: 400;
+    font-family: "Open Sans";
+    margin-top: 18px;
+    margin-bottom: 60px;
+}
+.skill__item {
+    padding: 25px 20px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+    background-color: #f6f6f6;
+}
+.skill__column {
+    padding: 20px;
+}
+.item__date {
+    margin-top: 10px;
+    font-size: 15px;
+    letter-spacing: 0px;
+    line-height: 46px;
+    font-weight: 400;
+    font-family: "Open Sans";
+}
+

@@ -1,6 +1,7 @@
 .header{
     position: absolute;
     width: 100%;
+    padding:33px 0;
 }
 .header__row{
     display: flex;
@@ -16,8 +17,10 @@
 .menu__item{
     list-style-type: none;
 }
-.nav__menu{
+.nav__menu,.social{
     display: flex;
+    margin: 0;
+    padding: 0;
 }
 .social__link{
   color: white;
@@ -25,7 +28,4 @@
 }
 .social__item{
     list-style-type: none;
-}
-.social{
-    display: flex;
 }

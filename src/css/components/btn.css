@@ -1,0 +1,18 @@
+.btn{
+    display: flex;
+    align-items: center;
+    padding: 12px 20px;
+    background-color: var(--orange);
+    border-radius: 6px;
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 30px;
+    color: #fefefe;
+    font-weight: 600;
+    font-family: "Poppins";
+    border: none;
+}
+.btn img{
+    margin-right: 12px;
+}

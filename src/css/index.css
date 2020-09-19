@@ -1,6 +1,11 @@
 @import "./fonts.css";
 @import "./components/header/header.css";
 @import "./sections/hero.css";
+@import "./helpers/classes.css";
+@import "./helpers/variables.css";
+@import "./sections/about.css";
+@import "./components/btn.css";
+@import "./sections/skill.css";
 body {
 margin: 0;
 }

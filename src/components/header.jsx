@@ -20,11 +20,11 @@ function Header() {
                        </ul>
                     </nav>
                     <ul className="social">
-                        <li className="social__item"><a className="social__link" href=""><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
-                        <li className="social__item"><a className="social__link" href=""><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                        <li className="social__item"><a className="social__link" href=""><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
-                        <li className="social__item"><a className="social__link" href=""><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
-                        <li className="social__item"><a className="social__link" href=""><i class="fa fa-behance-square" aria-hidden="true"></i></a></li>
+                        <li className="social__item"><a className="social__link" href="index.html"><i className="fa fa-facebook-official" aria-hidden="true"></i></a></li>
+                        <li className="social__item"><a className="social__link" href="index.html"><i className="fa fa-instagram" aria-hidden="true"></i></a></li>
+                        <li className="social__item"><a className="social__link" href="index.html"><i className="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+                        <li className="social__item"><a className="social__link" href="index.html"><i className="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+                        <li className="social__item"><a className="social__link" href="index.html"><i className="fa fa-behance-square" aria-hidden="true"></i></a></li>
                     </ul>
                 </div>
             </div>
