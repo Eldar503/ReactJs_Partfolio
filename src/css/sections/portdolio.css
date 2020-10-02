@@ -1,0 +1,27 @@
+.portfolio {
+    text-align: center;
+}
+.portfolio__content {
+    margin-top: 40px;
+    flex-wrap: wrap;
+    display: flex;
+}
+.portfolio__title {
+    margin: 115px 0 0 0;
+    font-size: 55px;
+    line-height: 66px;
+    color: #323232;
+    font-weight: 700;
+    font-family: "Poppins";
+}
+.portfolio__text {
+    margin: 15px 0 0 0;
+    font-size: 15px;
+    line-height: 25px;
+    color: #323232;
+    font-weight: 400;
+    font-family: "Open Sans";
+}
+.portfolio__item{
+    margin-top: 16px;
+}

@@ -3,6 +3,9 @@ import Header from './components/header.jsx';
 import Hero from './sections/hero';
 import About from './sections/about';
 import Skill from './sections/skill';
+import Service from './sections/service';
+import Portfolio from './sections/portfolio';
+import Clients from './sections/client';
 import "./css/index.css";
 function App() {
   return (
@@ -11,6 +14,9 @@ function App() {
      <Hero />
      <About />
      <Skill />
+     <Service />
+     <Portfolio />
+     <Clients />
     </div>
   );
 }

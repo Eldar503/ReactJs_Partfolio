@@ -1,4 +1,9 @@
 import React from "react";
+import round1 from "../assets/round-1.svg";
+import round2 from "../assets/round-2.svg";
+import round3 from "../assets/round-3.svg";
+import round4 from "../assets/round-4.svg";
+
 function Skill() {
   return (
     <section className="skill">
@@ -53,6 +58,36 @@ function Skill() {
             </div>
           </div>
         </div>
+      <div className="row text-center">
+        <div className="col-3">
+          <div className="round__item">
+            <img src={round1} alt="" className="round__shape"/>
+            <h6 className="round__percent">60%</h6>
+            <h3 className="round__title">BRANDING DESIGN</h3>
+          </div>
+        </div>
+        <div className="col-3">
+          <div className="round__item">
+            <img src={round2} alt="" className="round__shape"/>
+            <h6 className="round__percent">70%</h6>
+            <h3 className="round__title">UI & UX DESIGN</h3>
+          </div>
+        </div>
+        <div className="col-3">
+          <div className="round__item">
+            <img src={round3} alt="" className="round__shape"/>
+            <h6 className="round__percent">30%</h6>
+            <h3 className="round__title">WEB  DESIGN</h3>
+          </div>
+        </div>
+        <div className="col-3">
+          <div className="round__item">
+            <img src={round4} alt="" className="round__shape"/>
+            <h6 className="round__percent">90%</h6>
+            <h3 className="round__title">ILLUSTRATION</h3>
+          </div>
+        </div>
+      </div>
       </div>
     </section>
   );

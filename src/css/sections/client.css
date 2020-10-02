@@ -1,0 +1,53 @@
+.client__header {
+    text-align: center;
+}
+.client__title {
+    margin: 115px 0 0 0;
+    font-size: 55px;
+    line-height: 66px;
+    color: #323232;
+    font-weight: 700;
+    font-family: "Poppins";
+}
+.client__text {
+    margin: 15px 0 0 0;
+    font-size: 15px;
+    line-height: 25px;
+    color: #323232;
+    font-weight: 400;
+    font-family: "Open Sans";
+}
+.client__description {
+    font-size: 16px;
+    line-height: 25px;
+    color: #323232;
+    font-weight: 300;
+    font-family: "Open Sans";
+}
+.client__name {
+    font-size: 16px;
+    line-height: 25px;
+    color: #323232;
+    font-weight: 700;
+    font-family: "Poppins";
+}
+.client__job {
+    font-size: 15px;
+    line-height: 25px;
+    color: #323232;
+    font-weight: 400;
+    font-family: "Open Sans";
+}
+.client__avatar{
+    position: absolute;
+    left: 0;
+    transform: translate(-50%,-50%);
+    top: 50%;
+}
+.client__item{
+    position: relative;
+    padding: 30px 75px;
+    margin: 0 40px 0 40px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+    box-sizing:border-box ;
+}

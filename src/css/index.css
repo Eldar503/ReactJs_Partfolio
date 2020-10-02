@@ -6,10 +6,18 @@
 @import "./sections/about.css";
 @import "./components/btn.css";
 @import "./sections/skill.css";
+@import "./sections/service.css";
+@import "./sections/portdolio.css";
+@import "./sections/client.css";
 body {
 margin: 0;
 }
 .container{
-    max-width: 1150px;
+    max-width: 1170px;
     margin: auto;
+}
+@media (min-width:1440px ) {
+    .container{
+        max-width:1320px ;
+    }
 }
